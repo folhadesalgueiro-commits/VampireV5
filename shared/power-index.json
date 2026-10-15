@@ -1,0 +1,821 @@
+[
+  {
+    "name": "Fâmulus do Laço",
+    "level": 1,
+    "page": 224,
+    "discipline": "Animalismo",
+    "id": "power-animalismo-famulus-do-laco"
+  },
+  {
+    "name": "Sentir a Besta",
+    "level": 1,
+    "page": 224,
+    "discipline": "Animalismo",
+    "id": "power-animalismo-sentir-a-besta"
+  },
+  {
+    "name": "Sussurros Selvagens",
+    "level": 2,
+    "page": 225,
+    "discipline": "Animalismo",
+    "id": "power-animalismo-sussurros-selvagens"
+  },
+  {
+    "name": "Suculência Animal",
+    "level": 2,
+    "page": 225,
+    "discipline": "Animalismo",
+    "id": "power-animalismo-suculencia-animal"
+  },
+  {
+    "name": "Domar a Besta",
+    "level": 2,
+    "page": 226,
+    "discipline": "Animalismo",
+    "id": "power-animalismo-domar-a-besta"
+  },
+  {
+    "name": "Colmeia Morta-Viva",
+    "level": 2,
+    "page": 226,
+    "discipline": "Animalismo",
+    "id": "power-animalismo-colmeia-morta-viva"
+  },
+  {
+    "name": "Subordinar o Espírito",
+    "level": 4,
+    "page": 227,
+    "discipline": "Animalismo",
+    "id": "power-animalismo-subordinar-o-espirito"
+  },
+  {
+    "name": "Domínio Animal",
+    "level": 5,
+    "page": 227,
+    "discipline": "Animalismo",
+    "id": "power-animalismo-dominio-animal"
+  },
+  {
+    "name": "Extrair a Besta",
+    "level": 5,
+    "page": 227,
+    "discipline": "Animalismo",
+    "id": "power-animalismo-extrair-a-besta"
+  },
+  {
+    "name": "Sentidos Aguçados",
+    "level": 1,
+    "page": 229,
+    "discipline": "Auspícios",
+    "id": "power-auspicios-sentidos-agucados"
+  },
+  {
+    "name": "Sentir o Invisível",
+    "level": 1,
+    "page": 229,
+    "discipline": "Auspícios",
+    "id": "power-auspicios-sentir-o-invisivel"
+  },
+  {
+    "name": "Premonição",
+    "level": 2,
+    "page": 229,
+    "discipline": "Auspícios",
+    "id": "power-auspicios-premonicao"
+  },
+  {
+    "name": "Prever A Alma",
+    "level": 3,
+    "page": 230,
+    "discipline": "Auspícios",
+    "id": "power-auspicios-prever-a-alma"
+  },
+  {
+    "name": "Compartilhar Os Sentidos",
+    "level": 3,
+    "page": 230,
+    "discipline": "Auspícios",
+    "id": "power-auspicios-compartilhar-os-sentidos"
+  },
+  {
+    "name": "Toque do Espírito",
+    "level": 4,
+    "page": 231,
+    "discipline": "Auspícios",
+    "id": "power-auspicios-toque-do-espirito"
+  },
+  {
+    "name": "Clarividência",
+    "level": 5,
+    "page": 231,
+    "discipline": "Auspícios",
+    "id": "power-auspicios-clarividencia"
+  },
+  {
+    "name": "Possessão",
+    "level": 5,
+    "page": 232,
+    "discipline": "Auspícios",
+    "id": "power-auspicios-possessao"
+  },
+  {
+    "name": "Telepatia",
+    "level": 5,
+    "page": 232,
+    "discipline": "Auspícios",
+    "id": "power-auspicios-telepatia"
+  },
+  {
+    "name": "Elegância de Gato",
+    "level": 1,
+    "page": 234,
+    "discipline": "Celeridade",
+    "id": "power-celeridade-elegancia-de-gato"
+  },
+  {
+    "name": "Reflexos Rápidos",
+    "level": 1,
+    "page": 234,
+    "discipline": "Celeridade",
+    "id": "power-celeridade-reflexos-rapidos"
+  },
+  {
+    "name": "Suavidade",
+    "level": 2,
+    "page": 234,
+    "discipline": "Celeridade",
+    "id": "power-celeridade-suavidade"
+  },
+  {
+    "name": "Piscar",
+    "level": 3,
+    "page": 235,
+    "discipline": "Celeridade",
+    "id": "power-celeridade-piscar"
+  },
+  {
+    "name": "Travessia",
+    "level": 3,
+    "page": 235,
+    "discipline": "Celeridade",
+    "id": "power-celeridade-travessia"
+  },
+  {
+    "name": "Gole de Elegância",
+    "level": 4,
+    "page": 236,
+    "discipline": "Celeridade",
+    "id": "power-celeridade-gole-de-elegancia"
+  },
+  {
+    "name": "Pontaria Infalível",
+    "level": 4,
+    "page": 236,
+    "discipline": "Celeridade",
+    "id": "power-celeridade-pontaria-infalivel"
+  },
+  {
+    "name": "Ataque Relâmpago",
+    "level": 5,
+    "page": 236,
+    "discipline": "Celeridade",
+    "id": "power-celeridade-ataque-relampago"
+  },
+  {
+    "name": "Fração de Segundo",
+    "level": 5,
+    "page": 236,
+    "discipline": "Celeridade",
+    "id": "power-celeridade-fracao-de-segundo"
+  },
+  {
+    "name": "Memória Inativa",
+    "level": 1,
+    "page": 238,
+    "discipline": "Dominação",
+    "id": "power-dominacao-memoria-inativa"
+  },
+  {
+    "name": "Obrigar",
+    "level": 1,
+    "page": 239,
+    "discipline": "Dominação",
+    "id": "power-dominacao-obrigar"
+  },
+  {
+    "name": "Hipnotizar",
+    "level": 2,
+    "page": 239,
+    "discipline": "Dominação",
+    "id": "power-dominacao-hipnotizar"
+  },
+  {
+    "name": "Demência",
+    "level": 2,
+    "page": 239,
+    "discipline": "Dominação",
+    "id": "power-dominacao-demencia"
+  },
+  {
+    "name": "Ordenar Esquecimentos",
+    "level": 3,
+    "page": 240,
+    "discipline": "Dominação",
+    "id": "power-dominacao-ordenar-esquecimentos"
+  },
+  {
+    "name": "Diretiva Submersa",
+    "level": 3,
+    "page": 240,
+    "discipline": "Dominação",
+    "id": "power-dominacao-diretiva-submersa"
+  },
+  {
+    "name": "Racionalizar",
+    "level": 4,
+    "page": 240,
+    "discipline": "Dominação",
+    "id": "power-dominacao-racionalizar"
+  },
+  {
+    "name": "Decreto Terminal",
+    "level": 5,
+    "page": 241,
+    "discipline": "Dominação",
+    "id": "power-dominacao-decreto-terminal"
+  },
+  {
+    "name": "Resiliência",
+    "level": 1,
+    "page": 242,
+    "discipline": "Fortitude",
+    "id": "power-fortitude-resiliencia"
+  },
+  {
+    "name": "Mente Inabalável",
+    "level": 1,
+    "page": 242,
+    "discipline": "Fortitude",
+    "id": "power-fortitude-mente-inabalavel"
+  },
+  {
+    "name": "Rigidez",
+    "level": 2,
+    "page": 242,
+    "discipline": "Fortitude",
+    "id": "power-fortitude-rigidez"
+  },
+  {
+    "name": "Bestas Duradouras",
+    "level": 2,
+    "page": 242,
+    "discipline": "Fortitude",
+    "id": "power-fortitude-bestas-duradouras"
+  },
+  {
+    "name": "Desafiar Perdição",
+    "level": 3,
+    "page": 243,
+    "discipline": "Fortitude",
+    "id": "power-fortitude-desafiar-perdicao"
+  },
+  {
+    "name": "Fortificar a Fachada Interna",
+    "level": 3,
+    "page": 243,
+    "discipline": "Fortitude",
+    "id": "power-fortitude-fortificar-a-fachada-interna"
+  },
+  {
+    "name": "Gole de Resistência",
+    "level": 4,
+    "page": 244,
+    "discipline": "Fortitude",
+    "id": "power-fortitude-gole-de-resistencia"
+  },
+  {
+    "name": "Carne de Mármore",
+    "level": 5,
+    "page": 244,
+    "discipline": "Fortitude",
+    "id": "power-fortitude-carne-de-marmore"
+  },
+  {
+    "name": "Proeza da Dor",
+    "level": 5,
+    "page": 244,
+    "discipline": "Fortitude",
+    "id": "power-fortitude-proeza-da-dor"
+  },
+  {
+    "name": "Manto das Sombras",
+    "level": 1,
+    "page": 246,
+    "discipline": "Ofuscação",
+    "id": "power-ofuscacao-manto-das-sombras"
+  },
+  {
+    "name": "Silêncio da Morte",
+    "level": 1,
+    "page": 246,
+    "discipline": "Ofuscação",
+    "id": "power-ofuscacao-silencio-da-morte"
+  },
+  {
+    "name": "Passagem Invisível",
+    "level": 2,
+    "page": 247,
+    "discipline": "Ofuscação",
+    "id": "power-ofuscacao-passagem-invisivel"
+  },
+  {
+    "name": "Fantasma na Máquina",
+    "level": 3,
+    "page": 247,
+    "discipline": "Ofuscação",
+    "id": "power-ofuscacao-fantasma-na-maquina"
+  },
+  {
+    "name": "Máscara das Mil Faces",
+    "level": 3,
+    "page": 247,
+    "discipline": "Ofuscação",
+    "id": "power-ofuscacao-mascara-das-mil-faces"
+  },
+  {
+    "name": "Ocultar",
+    "level": 4,
+    "page": 248,
+    "discipline": "Ofuscação",
+    "id": "power-ofuscacao-ocultar"
+  },
+  {
+    "name": "Desaparecer",
+    "level": 4,
+    "page": 248,
+    "discipline": "Ofuscação",
+    "id": "power-ofuscacao-desaparecer"
+  },
+  {
+    "name": "Encobrir o Grupo",
+    "level": 5,
+    "page": 248,
+    "discipline": "Ofuscação",
+    "id": "power-ofuscacao-encobrir-o-grupo"
+  },
+  {
+    "name": "Aparência do Impostor",
+    "level": 5,
+    "page": 249,
+    "discipline": "Ofuscação",
+    "id": "power-ofuscacao-aparencia-do-impostor"
+  },
+  {
+    "name": "Corpo Letal",
+    "level": 1,
+    "page": 250,
+    "discipline": "Potência",
+    "id": "power-potencia-corpo-letal"
+  },
+  {
+    "name": "Salto Elevado",
+    "level": 1,
+    "page": 250,
+    "discipline": "Potência",
+    "id": "power-potencia-salto-elevado"
+  },
+  {
+    "name": "Façanha",
+    "level": 2,
+    "page": 250,
+    "discipline": "Potência",
+    "id": "power-potencia-facanha"
+  },
+  {
+    "name": "Alimentação Brutal",
+    "level": 3,
+    "page": 251,
+    "discipline": "Potência",
+    "id": "power-potencia-alimentacao-brutal"
+  },
+  {
+    "name": "Faísca de Fúria",
+    "level": 3,
+    "page": 251,
+    "discipline": "Potência",
+    "id": "power-potencia-faisca-de-furia"
+  },
+  {
+    "name": "Gole do Poder",
+    "level": 4,
+    "page": 252,
+    "discipline": "Potência",
+    "id": "power-potencia-gole-do-poder"
+  },
+  {
+    "name": "Terremoto",
+    "level": 5,
+    "page": 252,
+    "discipline": "Potência",
+    "id": "power-potencia-terremoto"
+  },
+  {
+    "name": "Punho de Caim",
+    "level": 5,
+    "page": 253,
+    "discipline": "Potência",
+    "id": "power-potencia-punho-de-caim"
+  },
+  {
+    "name": "Fascínio",
+    "level": 1,
+    "page": 254,
+    "discipline": "Presença",
+    "id": "power-presenca-fascinio"
+  },
+  {
+    "name": "Amedrontar",
+    "level": 1,
+    "page": 254,
+    "discipline": "Presença",
+    "id": "power-presenca-amedrontar"
+  },
+  {
+    "name": "Beijo Prolongado",
+    "level": 2,
+    "page": 255,
+    "discipline": "Presença",
+    "id": "power-presenca-beijo-prolongado"
+  },
+  {
+    "name": "Olhar Aterrorizante",
+    "level": 3,
+    "page": 255,
+    "discipline": "Presença",
+    "id": "power-presenca-olhar-aterrorizante"
+  },
+  {
+    "name": "Transe",
+    "level": 3,
+    "page": 256,
+    "discipline": "Presença",
+    "id": "power-presenca-transe"
+  },
+  {
+    "name": "Voz Irresistível",
+    "level": 4,
+    "page": 256,
+    "discipline": "Presença",
+    "id": "power-presenca-voz-irresistivel"
+  },
+  {
+    "name": "Convocar",
+    "level": 4,
+    "page": 256,
+    "discipline": "Presença",
+    "id": "power-presenca-convocar"
+  },
+  {
+    "name": "Majestade",
+    "level": 5,
+    "page": 257,
+    "discipline": "Presença",
+    "id": "power-presenca-majestade"
+  },
+  {
+    "name": "Magnetismo de Estrela",
+    "level": 5,
+    "page": 257,
+    "discipline": "Presença",
+    "id": "power-presenca-magnetismo-de-estrela"
+  },
+  {
+    "name": "Olhos da Besta",
+    "level": 1,
+    "page": 258,
+    "discipline": "Metamorfose",
+    "id": "power-metamorfose-olhos-da-besta"
+  },
+  {
+    "name": "O Peso da Pena",
+    "level": 1,
+    "page": 258,
+    "discipline": "Metamorfose",
+    "id": "power-metamorfose-o-peso-da-pena"
+  },
+  {
+    "name": "Armas da Besta",
+    "level": 2,
+    "page": 259,
+    "discipline": "Metamorfose",
+    "id": "power-metamorfose-armas-da-besta"
+  },
+  {
+    "name": "Fusão com a Terra",
+    "level": 3,
+    "page": 259,
+    "discipline": "Metamorfose",
+    "id": "power-metamorfose-fusao-com-a-terra"
+  },
+  {
+    "name": "Mudança de Forma",
+    "level": 3,
+    "page": 259,
+    "discipline": "Metamorfose",
+    "id": "power-metamorfose-mudanca-de-forma"
+  },
+  {
+    "name": "Transformação",
+    "level": 4,
+    "page": 260,
+    "discipline": "Metamorfose",
+    "id": "power-metamorfose-transformacao"
+  },
+  {
+    "name": "Forma de Névoa",
+    "level": 5,
+    "page": 260,
+    "discipline": "Metamorfose",
+    "id": "power-metamorfose-forma-de-nevoa"
+  },
+  {
+    "name": "O Coração Livre",
+    "level": 5,
+    "page": 260,
+    "discipline": "Metamorfose",
+    "id": "power-metamorfose-o-coracao-livre"
+  },
+  {
+    "name": "Vitae Corrosivo",
+    "level": 1,
+    "page": 262,
+    "discipline": "Feitiçaria do Sangue",
+    "id": "power-feiticaria-do-sangue-vitae-corrosivo"
+  },
+  {
+    "name": "Um Gosto por Sangue",
+    "level": 1,
+    "page": 262,
+    "discipline": "Feitiçaria do Sangue",
+    "id": "power-feiticaria-do-sangue-um-gosto-por-sangue"
+  },
+  {
+    "name": "Extinguir Vitae",
+    "level": 2,
+    "page": 262,
+    "discipline": "Feitiçaria do Sangue",
+    "id": "power-feiticaria-do-sangue-extinguir-vitae"
+  },
+  {
+    "name": "Sangue da Potência",
+    "level": 3,
+    "page": 263,
+    "discipline": "Feitiçaria do Sangue",
+    "id": "power-feiticaria-do-sangue-sangue-da-potencia"
+  },
+  {
+    "name": "Toque do Escorpião",
+    "level": 3,
+    "page": 263,
+    "discipline": "Feitiçaria do Sangue",
+    "id": "power-feiticaria-do-sangue-toque-do-escorpiao"
+  },
+  {
+    "name": "Roubo de Vitae",
+    "level": 4,
+    "page": 264,
+    "discipline": "Feitiçaria do Sangue",
+    "id": "power-feiticaria-do-sangue-roubo-de-vitae"
+  },
+  {
+    "name": "Carícia do Baal",
+    "level": 5,
+    "page": 264,
+    "discipline": "Feitiçaria do Sangue",
+    "id": "power-feiticaria-do-sangue-caricia-do-baal"
+  },
+  {
+    "name": "Caldeirão de Sangue",
+    "level": 5,
+    "page": 264,
+    "discipline": "Feitiçaria do Sangue",
+    "id": "power-feiticaria-do-sangue-caldeirao-de-sangue"
+  },
+  {
+    "name": "Caminhada de Sangue",
+    "level": 1,
+    "page": 266,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-caminhada-de-sangue"
+  },
+  {
+    "name": "Agarro do Inseto",
+    "level": 1,
+    "page": 266,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-agarro-do-inseto"
+  },
+  {
+    "name": "Criar Pedra de Sangue",
+    "level": 1,
+    "page": 266,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-criar-pedra-de-sangue"
+  },
+  {
+    "name": "Acordar com o Frescor da Manhã",
+    "level": 1,
+    "page": 267,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-acordar-com-o-frescor-da-manha"
+  },
+  {
+    "name": "Proteção Contra Carniçais",
+    "level": 1,
+    "page": 267,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-protecao-contra-carnicais"
+  },
+  {
+    "name": "Comunicar-se com o Senhor",
+    "level": 2,
+    "page": 267,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-comunicar-se-com-o-senhor"
+  },
+  {
+    "name": "Olhos de Babel",
+    "level": 2,
+    "page": 267,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-olhos-de-babel"
+  },
+  {
+    "name": "Iluminar a Trilha da Presa",
+    "level": 2,
+    "page": 268,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-iluminar-a-trilha-da-presa"
+  },
+  {
+    "name": "Verdade do Sangue",
+    "level": 2,
+    "page": 268,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-verdade-do-sangue"
+  },
+  {
+    "name": "Proteção Contra Espíritos",
+    "level": 2,
+    "page": 268,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-protecao-contra-espiritos"
+  },
+  {
+    "name": "Chamado de Dagon",
+    "level": 3,
+    "page": 269,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-chamado-de-dagon"
+  },
+  {
+    "name": "Bloqueio da Ruína de Madeira",
+    "level": 3,
+    "page": 269,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-bloqueio-da-ruina-de-madeira"
+  },
+  {
+    "name": "Essência do Ar",
+    "level": 3,
+    "page": 269,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-essencia-do-ar"
+  },
+  {
+    "name": "Caminhante do Fogo",
+    "level": 3,
+    "page": 270,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-caminhante-do-fogo"
+  },
+  {
+    "name": "Proteção Contra Lupinos",
+    "level": 3,
+    "page": 270,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-protecao-contra-lupinos"
+  },
+  {
+    "name": "Círculo de Proteção Contra Espíritos",
+    "level": 3,
+    "page": 270,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-circulo-de-protecao-contra-espiritos"
+  },
+  {
+    "name": "Defesa do Refúgio Sagrado",
+    "level": 4,
+    "page": 270,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-defesa-do-refugio-sagrado"
+  },
+  {
+    "name": "Olhos do Falcão da Noite",
+    "level": 4,
+    "page": 271,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-olhos-do-falcao-da-noite"
+  },
+  {
+    "name": "Passagem Incorpórea",
+    "level": 4,
+    "page": 271,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-passagem-incorporea"
+  },
+  {
+    "name": "Proteção Contra Cainitas",
+    "level": 4,
+    "page": 271,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-protecao-contra-cainitas"
+  },
+  {
+    "name": "Círculo de Proteção Contra Lupinos",
+    "level": 4,
+    "page": 272,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-circulo-de-protecao-contra-lupinos"
+  },
+  {
+    "name": "Escapar para o Santuário Verdadeiro",
+    "level": 5,
+    "page": 272,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-escapar-para-o-santuario-verdadeiro"
+  },
+  {
+    "name": "Coração de Pedra",
+    "level": 5,
+    "page": 272,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-coracao-de-pedra"
+  },
+  {
+    "name": "Haste da Dissolução Tardia",
+    "level": 5,
+    "page": 273,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-haste-da-dissolucao-tardia"
+  },
+  {
+    "name": "Círculo de Proteção Contra Cainitas",
+    "level": 5,
+    "page": 273,
+    "discipline": "Rituais",
+    "id": "ritual-rituais-circulo-de-protecao-contra-cainitas"
+  },
+  {
+    "name": "Névoa",
+    "level": 1,
+    "page": 277,
+    "discipline": "Alquimia Sangue-Ralo",
+    "id": "formula-alquimia-sangue-ralo-nevoa"
+  },
+  {
+    "name": "Envolver",
+    "level": 2,
+    "page": 277,
+    "discipline": "Alquimia Sangue-Ralo",
+    "id": "formula-alquimia-sangue-ralo-envolver"
+  },
+  {
+    "name": "Defracionar",
+    "level": 3,
+    "page": 278,
+    "discipline": "Alquimia Sangue-Ralo",
+    "id": "formula-alquimia-sangue-ralo-defracionar"
+  },
+  {
+    "name": "Hieros Gamos Profano",
+    "level": 3,
+    "page": 278,
+    "discipline": "Alquimia Sangue-Ralo",
+    "id": "formula-alquimia-sangue-ralo-hieros-gamos-profano"
+  },
+  {
+    "name": "Impulso Suspenso no Ar",
+    "level": 4,
+    "page": 279,
+    "discipline": "Alquimia Sangue-Ralo",
+    "id": "formula-alquimia-sangue-ralo-impulso-suspenso-no-ar"
+  },
+  {
+    "name": "Despertar o Adormecido",
+    "level": 5,
+    "page": 280,
+    "discipline": "Alquimia Sangue-Ralo",
+    "id": "formula-alquimia-sangue-ralo-despertar-o-adormecido"
+  }
+]

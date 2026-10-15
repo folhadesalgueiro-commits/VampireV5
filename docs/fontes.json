@@ -1,0 +1,78 @@
+[
+  {
+    "id": "companion",
+    "arquivo": "V5 Companion (Guia Suplementar).pdf",
+    "paginas": 68,
+    "sha256_texto": "4b59284bf032dc0844315144c4f8b76ab808c1430ed2ded734c5e2d7526208d4",
+    "paginas_sem_texto": [
+      56
+    ],
+    "origem": "Referência V5"
+  },
+  {
+    "id": "ficha",
+    "arquivo": "Ficha Vampiro V5.pdf",
+    "paginas": 2,
+    "sha256_texto": "ca565cea1905f1b048764f23b9ea2999803c44a74daef4af6823eccb44d29716",
+    "paginas_sem_texto": [],
+    "origem": "Referência V5"
+  },
+  {
+    "id": "basico",
+    "arquivo": "VaM v5 Básico.pdf",
+    "paginas": 416,
+    "sha256_texto": "cf2784ddcf1368e59be225d5ebdf972679abe62bafb73519d695e30fa31b5a5d",
+    "paginas_sem_texto": [],
+    "origem": "Referência V5"
+  },
+  {
+    "id": "westhaven-250",
+    "arquivo": "MdT - VAMPIRO A Máscara V5 - Westhaven by Night 4.2-201-250.pdf",
+    "paginas": 50,
+    "sha256_texto": "64c610102cf98e4f9be16c4a021e1ea1e8137c42fa69864d18242835731e2690",
+    "paginas_sem_texto": [
+      3,
+      38,
+      42,
+      43,
+      50
+    ],
+    "origem": "Compilação mista"
+  },
+  {
+    "id": "westhaven-200",
+    "arquivo": "MdT - VAMPIRO A Máscara V5 - Westhaven by Night 4.2-151-200.pdf",
+    "paginas": 50,
+    "sha256_texto": "2d0e3b3ac48625df85711896a15c4a54ea78b02a2f7b2c93175f64059dae59a3",
+    "paginas_sem_texto": [
+      3,
+      41
+    ],
+    "origem": "Compilação mista"
+  },
+  {
+    "id": "westhaven-150",
+    "arquivo": "MdT - VAMPIRO A Máscara V5 - Westhaven by Night 4.2-76-150.pdf",
+    "paginas": 75,
+    "sha256_texto": "69ed3ed1f3a9a8cba1da8713b70a6bca2dfb2849f0e512cfa892576b6e3b2a85",
+    "paginas_sem_texto": [
+      22,
+      30,
+      52,
+      70
+    ],
+    "origem": "Compilação mista"
+  },
+  {
+    "id": "westhaven-75",
+    "arquivo": "MdT - VAMPIRO A Máscara V5 - Westhaven by Night 4.2-1-75.pdf",
+    "paginas": 75,
+    "sha256_texto": "6fcc86ae26737897170eb61c0cbae55c3ba29fff8a4e4fc99de6f3295a137a28",
+    "paginas_sem_texto": [
+      10,
+      30,
+      72
+    ],
+    "origem": "Compilação mista"
+  }
+]
